@@ -10,6 +10,8 @@ Antes de GPT-4o, los usuarios podían interactuar con ChatGPT utilizando el Modo
 
 Actualmente, la API solo admite entradas de texto e imagen, con salidas de texto, las mismas modalidades que `gpt-4-turbo`. Se introducirán pronto modalidades adicionales, incluido el audio. Esta guía te ayudará a comenzar a usar GPT-4o para la comprensión de texto, imagen y video.
 
+---
+
 ## Empezando
 
 ### Instalar el SDK de OpenAI para Python
